@@ -35,8 +35,4 @@ This Java program simulates viewing different animal habitats based on user inpu
 - If the user provides an invalid habitat number or enters non-integer input, the program handles it and provides an appropriate message.
 - The program includes descriptions for camel, lion, deer, goose, bat, and rabbit habitats. You can customize these descriptions by modifying the `animals` array.
 
-## Author
-
-This program was created by [Your Name] ([Your GitHub Profile](https://github.com/yourusername)).
-
 Feel free to customize and improve this code according to your needs!
